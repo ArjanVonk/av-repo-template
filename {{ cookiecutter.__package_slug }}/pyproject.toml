@@ -3,7 +3,6 @@ name = "{{ cookiecutter.__package_slug }}"
 version = "{{ cookiecutter.package_version }}"
 description = "{{ cookiecutter.package_short_description }}"
 authors = ["{{ cookiecutter.author_name }}"]
-license = "{{ cookiecutter.open_source_license }}"
 readme = "README.md"
 
 [tool.poetry.dependencies]
